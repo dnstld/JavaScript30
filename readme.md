@@ -1,6 +1,6 @@
 ![](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# My JavaScript30 lessons
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
